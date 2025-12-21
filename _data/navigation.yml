@@ -1,0 +1,21 @@
+
+main:
+  - title: "Accueil"
+    url: /
+  - title: "Horaires"
+    url: /horaires/
+  - title: "Tarifs"
+    url: /tarifs/
+  - title: "Contact"
+    url: /contact/
+  - title: "A propos"
+    url: /a_propos/
+  - title: "Sites amis"
+    url: /sites_amis/
+  - title: "Resources"
+    url: /resources/
+
+
+  # - title: "External Link"
+  #   url: https://google.com
+  #   target: _blank
