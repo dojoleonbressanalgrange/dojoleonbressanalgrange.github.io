@@ -3,17 +3,17 @@ main:
   - title: "Accueil"
     url: /
   - title: "Horaires"
-    url: /horaires/
+    url: /horaires.html
   - title: "Tarifs"
-    url: /tarifs/
+    url: /tarifs.html
   - title: "Contact"
-    url: /contact/
+    url: /contact.html
   - title: "A propos"
-    url: /a_propos/
+    url: /a_propos.html
   - title: "Sites amis"
-    url: /sites_amis/
+    url: /sites_amis.html
   - title: "Resources"
-    url: /resources/
+    url: /resources.html
 
 
   # - title: "External Link"
