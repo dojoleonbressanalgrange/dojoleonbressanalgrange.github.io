@@ -49,6 +49,11 @@ title: Horaires
 ### Vendredi
 09h30 à 11h00
 
+## Biokinésie
+[présentation](biokinesie.md)
+### Jeudi
+10h00 à 11h30
+
 # Notes
 * Pas d’entraînement pendant les vacances scolaires
 * Le certificat médical n’est plus nécessaire
