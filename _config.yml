@@ -1,7 +1,7 @@
 title: "Dojo Léon Bressan Algrange"
 description: "Club d'arts martiaux à Algrange, Moselle"
 baseurl: "/" # Pour un site projet hébergé sur GitHub Pages, définissez `baseurl` sur le nom du repo
-url: "https://test.dojoleonbressanalgrange.club" # url facultative : https://username.github.io
+#url: "https://dojoleonbressanalgrange.club" # url facultative : https://username.github.io
 markdown: kramdown
 atom_feed:
   hide: true
