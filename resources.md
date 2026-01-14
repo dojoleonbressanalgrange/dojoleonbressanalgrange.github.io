@@ -19,3 +19,6 @@ title: Resources
 * [Les 20 attaques imposées](../assets/images/judo_jujitsu/les_20_attaques_imposees.jpg){:target="_blank"}
 * [HAJIME JUJITSU](http://matkano.free.fr/jujitsu/jujitsu.php){:target="_blank"}
 * [Jean-Michel DOUDOUX, Les meilleurs liens Ju Jitsu et arts martiaux sur le Web](https://www.jmdoudoux.fr/jujitsu/liens_jujitsu.htm){:target="_blank"}
+* Kodokan Goshin-jutsu (kata)
+  * [video 1](https://www.youtube.com/watch?v=qevL9YVZsbo){:target="_blank"} ou [video 2](https://www.youtube.com/watch?v=DYkHNIGMjXU){:target="_blank"}
+  * [guide](https://cpb-rennes-judo.ffjudo.com/uploads/sites/cpb-rennes-judo/userfiles/fichier/Kata/Guide%20Goshin%20Jitsu%20Kata.pdf){:target="_blank"}
