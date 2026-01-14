@@ -9,6 +9,7 @@ title: Resources
     * [jaune & orange](../assets/images/judo_jujitsu/progression_francaise/2_Jaune-à-Orange.jpg){:target="_blank"}
     * [orange & verte](../assets/images/judo_jujitsu/progression_francaise/3_Orange-à-Verte.jpg){:target="_blank"}
     * [bleue & marron](../assets/images/judo_jujitsu/progression_francaise/4_Bleue-à-Marron.jpg){:target="_blank"}
+* [100 techniques de Judo par KODOKAN(école fondée par Jigorō Kanō) et IJF(Fédération Internationale de Judo), les meilleures vidéos que vous puissiez trouver](https://www.youtube.com/playlist?list=PLtz539PTepc16H2iu5F3Q3D7_He1EYlIQ){:target="_blank"}
 * [Termes et gestes d'arbitrage](../assets/images/judo_jujitsu/Termes-et-gestes-darbitrage.jpg){:target="_blank"}
 * [HAJIME JUDO](http://matkano.free.fr/judo/judo.php){:target="_blank"}
 * [JUDO en lignes](https://dessign.fr/JUDO/){:target="_blank"}
