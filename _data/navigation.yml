@@ -12,8 +12,8 @@ main:
     url: /a_propos.html
   - title: "Sites amis"
     url: /sites_amis.html
-  - title: "Resources"
-    url: /resources.html
+  - title: "Ressources"
+    url: /ressources.html
 
 
   # - title: "External Link"
