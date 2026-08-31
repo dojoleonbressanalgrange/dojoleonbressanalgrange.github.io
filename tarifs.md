@@ -2,7 +2,7 @@
 title: Tarifs
 ---
 
-# Saison 2025-2026
+# Saison 2026-2027
 
 **2 semaines d’essai gratuit!! (toutes disciplines)**
 
@@ -29,14 +29,14 @@ title: Tarifs
 
 (*): Licence gratuite pour les 3e et 4e enfants de la même famille
 
-## Gym féminine, Body Karaté et danse en ligne
+## Gym féminine et danse en ligne
 (licence commune)
 
 | Licence pour l’année 	| 75 €
 
 
 # Pass’Sport
-Pass’Sport accepté, voir conditions sur [www.pass.sports.gouv.fr](https://www.pass.sports.gouv.fr/){:target="_blank"} (maintenant réservé aux 14-17 ans)
+Pass’Sport accepté, voir conditions sur [www.pass.sports.gouv.fr](https://www.pass.sports.gouv.fr/){:target="_blank"} (maintenant réservé aux 6-17 ans)
 
 
 <!-- ex de table:

@@ -2,45 +2,45 @@
 title: Horaires
 ---
 
-# Saison 2025-2026
+# Saison 2026-2027
 
 ## Judo
 ### Mardi
-17h00 à 17h50 pour les enfants nés en 2020 / 2021
-18h00 à 19h00 pour les enfants nés en 2016 / 2017 / 2018 / 2019
-19h00 à 20h15 pour les enfants nés en 2015 et avant
+17h00 à 18h00 pour les enfants nés en 2021 / 2022
+18h00 à 19h00 pour les enfants nés en 2017 / 2018 / 2019 /2020
+19h00 à 20h15 pour les enfants nés en 2016 et avant
 
 ### Jeudi
-17h00 à 17h50 pour les enfants nés en 2020 / 2021
-18h00 à 19h00 pour les enfants nés en 2016 / 2017 / 2018 /2019
-19h00 à 20h00 pour les enfants nés en 2015 et avant
+17h00 à 18h00 pour les enfants nés en 2021 / 2022
+18h00 à 19h00 pour les enfants nés en 2017 / 2018 / 2019 /2020
+19h00 à 20h00 pour les enfants nés en 2016 et avant
 
 ## Karaté
 ### Lundi
-18h00 à 19h00 pour les enfants nés en 2010 à 2016
-19h00 à 20h00 pour les élèves nés en 2009 et avant ainsi que pour les adultes (karaté full contact)
+18h00 à 19h00 pour les enfants nés en 2011 à 2017
+19h00 à 20h00 pour les élèves nés en 2010 et avant ainsi que pour les adultes (karaté full contact)
 
 ### Mercredi
-18h00 à 19h00 pour les enfants nés en 2017 à 2020
-19h00 à 20h00 pour les enfants nés en 2010 à 2016
+18h00 à 19h00 pour les enfants nés en 2018 à 2021
+19h00 à 20h00 pour les enfants nés en 2011 à 2017
 
 ### Vendredi
-18h00 à 19h00 pour les enfants nés en 2010 à 2016
+18h00 à 19h00 pour les enfants nés en 2011 à 2017
 
 ## Krav-maga
 ### Vendredi
-19h00 à 20h00 pour les élèves nés en 2009 et avant ainsi que pour les adultes
+19h00 à 20h00 pour les élèves nés en 2010 et avant ainsi que pour les adultes
 
 ## Jujitsu
 ### Mardi
-20h15 à 22h00 pour les adultes
+20h15 à 22h00 pour les adultes (à partir de 15 ans)
 
 ### Jeudi
-20h00 à 22h00 pour les adultes
+20h00 à 22h00 pour les adultes (à partir de 15 ans)
 
-## Gym féminine / Body Karaté
-### Lundi et mercredi
-20h15 à 21h30
+## Gym féminine
+### Dimanche
+11h00 à 12h00
 
 ## Danse en ligne (mixte)
 ### Mardi
