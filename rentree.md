@@ -17,7 +17,7 @@ Mardi 8 septembre 2026
 Mardi 8 septembre 2026
 
 ## Karaté
-Mercredi 9 septembre 2026
+Lundi 7 septembre 2026
 
 ## Gym féminine
 Dimanche 6 septembre 2026
