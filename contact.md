@@ -4,7 +4,7 @@ title: Contact
 
 # Contact
 
-* Téléphone ([pendant les entraînements](horaires.md)): [03 82 85 32 55](tel:03 82 85 32 55)
+* Téléphone ([pendant les entraînements](horaires.md)): [09 81 44 43 49](tel:+33 9 81 44 43 49)
 * Mail: [denis.cafarelli@neuf.fr](mailto:denis.cafarelli@neuf.fr)
 * Facebook: [DojoLeonBressanAlgrange](https://www.facebook.com/DojoLeonBressanAlgrange/)
 * Instagram: [dojo_leon_bressan_algrange](https://www.instagram.com/dojo_leon_bressan_algrange/)
