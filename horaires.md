@@ -39,8 +39,8 @@ title: Horaires
 20h00 à 22h00 pour les adultes (à partir de 15 ans)
 
 ## Gym féminine
-### Dimanche
-11h00 à 12h00
+### Lundi
+20h15 à 21h30
 
 ## Danse en ligne (mixte)
 ### Mardi
